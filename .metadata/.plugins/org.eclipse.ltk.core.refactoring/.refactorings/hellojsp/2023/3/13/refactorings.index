@@ -1,0 +1,14 @@
+1679980643784	Rename resource 'ForwardFooter.jsp'
+1679981807158	Move file
+1679984922330	Delete element
+1679984967176	Delete element
+1679987041734	Move 'forwardMain.jsp' to 'action_forward'
+1679987213642	Move 'IncludeFooter.jsp' to 'ActionInclude1'
+1679987215678	Move 'IncludeMain.jsp' to 'ActionInclude1'
+1679987252166	Move 'IncludeEx1' to 'CH4'
+1679987256077	Move 'IncludeEx2' to 'CH4'
+1679987299686	Move 'DivideError.jsp' to 'ErrorPageEX'
+1679987301072	Move 'DivideErrorProc.jsp' to 'ErrorPageEX'
+1679987302481	Move 'error.jsp' to 'ErrorPageEX'
+1679987303751	Move 'error test.jsp' to 'ErrorPageEX'
+1679988568682	Delete element

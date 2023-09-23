@@ -1,0 +1,4 @@
+127.0.0.1 - - [02/May/2023:14:31:27 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [02/May/2023:14:31:28 +0900] "GET /hellojsp/CH8/BeanEX/LoginForm.jsp HTTP/1.1" 200 934
+0:0:0:0:0:0:0:1 - - [02/May/2023:14:31:28 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [02/May/2023:14:31:33 +0900] "GET /hellojsp/CH8/BeanEX/LoginProc.jsp?userid=123&userpassword=1111&useremail=SuJin%40naver.com HTTP/1.1" 200 391

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;hellojsp/src/main/webapp/CH11/AddProc.jsp&apos; to &apos;AddrProc.jsp&apos;" description="Rename resource &apos;AddProc.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/CH11/AddProc.jsp" name="AddrProc.jsp" stamp="1684818835802" updateReferences="true"/>
+</session>
